@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0595-big-countries) |
 | [1292-immediate-food-delivery-ii](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1908-recyclable-and-low-fat-products](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
