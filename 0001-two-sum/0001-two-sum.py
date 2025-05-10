@@ -9,12 +9,13 @@ class Solution:
         numMap = {}
         n = len(nums)
 
-        for i in range(n):
-            numMap[nums[i]] = i
+        # for i in range(n):
+        #     numMap[nums[i]] = i
 
         for i in range(n):
             comp = target - nums[i]
-            if comp in numMap and numMap[comp] != i:
-                return [i, numMap[comp]]
+            if comp in numMap:
+                return [numMap[comp],i]
+            numMap[nums[i]] = i
 
         return []
