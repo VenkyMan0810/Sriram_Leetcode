@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0948-sort-an-array) |
 ## Hash Table
 |  |
@@ -59,20 +60,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -81,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -89,5 +95,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0948-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
