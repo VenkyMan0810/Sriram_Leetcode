@@ -4,11 +4,9 @@ class Solution:
         num_set = set(nums)
         for num in num_set:
             if (num - 1) not in num_set:
-                current_num = num
                 curr_streak = 1
 
-                while (current_num + 1) in num_set:
-                    current_num +=1
+                while (num + curr_streak) in num_set:
                     curr_streak +=1
 
                 counter = max(counter, curr_streak)
