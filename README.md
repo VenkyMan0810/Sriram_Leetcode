@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0948-sort-an-array) |
 ## Hash Table
 |  |
@@ -186,11 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
