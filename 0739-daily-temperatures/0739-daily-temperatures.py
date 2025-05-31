@@ -8,7 +8,7 @@ class Solution(object):
         stack = []
         res = [0] * n
         
-        for i,temp in enumerate(temperatures):
+        for i in range(len(temperatures)):
             while stack and temperatures[i] > temperatures[stack[-1]]:
                 prev = stack.pop()
                 res[prev] = i - prev
