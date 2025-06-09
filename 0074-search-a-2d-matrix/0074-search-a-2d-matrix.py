@@ -1,7 +1,7 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        if not matrix or not matrix[0]:
-            return False
+        # if not matrix or not matrix[0]:
+        #     return False
 
         for i in matrix:
             begin, end = 0, len(i) - 1
