@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0948-sort-an-array) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
