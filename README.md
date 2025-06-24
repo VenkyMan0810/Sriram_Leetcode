@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -339,4 +342,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
