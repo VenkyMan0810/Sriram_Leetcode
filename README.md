@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0948-sort-an-array) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0271-encode-and-decode-strings) |
+| [0295-find-median-from-data-stream](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -370,5 +374,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
