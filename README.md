@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0271-encode-and-decode-strings) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0271-encode-and-decode-strings) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -330,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## String Matching
