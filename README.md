@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0567-permutation-in-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0355-design-twitter) |
 ## Tree
 |  |
 | ------- |
