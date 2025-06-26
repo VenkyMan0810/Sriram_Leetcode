@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0355-design-twitter) |
 ## Tree
@@ -376,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
