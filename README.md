@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0695-max-area-of-island](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0883-car-fleet) |
@@ -221,11 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Search
 |  |
 | ------- |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0695-max-area-of-island) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0695-max-area-of-island](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
