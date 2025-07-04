@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0684-redundant-connection](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Search
 |  |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0695-max-area-of-island) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0684-redundant-connection](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
