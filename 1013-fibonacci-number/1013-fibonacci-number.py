@@ -1,13 +1,12 @@
-class Solution(object):
-    def fib(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        def recursive(n):
-            if n <= 1:
-                return n
-            else:
-                return recursive(n-1) + recursive(n-2)
+class Solution:
+    def fib(self, n: int) -> int:
+        memo = {0:0, 1:1}
 
-        return recursive(n)
+        def f(x):
+            if x in memo:
+                return memo[x]
+            else:
+                memo[x] = f(x-1) + f(x-2)
+                return memo[x]
+
+        return f(n)
