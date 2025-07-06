@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0338-counting-bits) |
+| [0747-min-cost-climbing-stairs](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
