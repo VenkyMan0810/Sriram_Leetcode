@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0271-encode-and-decode-strings) |
+| [0322-coin-change](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0496-next-greater-element-i) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0261-graph-valid-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0684-redundant-connection) |
