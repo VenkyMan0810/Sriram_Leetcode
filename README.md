@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0695-max-area-of-island) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1013-fibonacci-number) |
