@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0217-contains-duplicate) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0213-house-robber-ii) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -472,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0210-course-schedule-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
