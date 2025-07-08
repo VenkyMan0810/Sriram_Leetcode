@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0695-max-area-of-island) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/VenkyMan0810/Sriram_Leetcode/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
